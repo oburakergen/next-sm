@@ -48,7 +48,6 @@ A minimalistic Next.js starter template for small and medium projects with built
 - [Prettier](https://prettier.io/)
 - [PostCSS](https://postcss.org/)
 - [Zod](https://github.com/colinhacks/zod)
-- [Chalk](https://github.com/chalk/chalk)
 
 ## Getting Started
 
