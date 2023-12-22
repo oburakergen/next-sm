@@ -4,10 +4,6 @@ const nextConfig = {
     eslint: {
         ignoreDuringBuilds: true,
     },
-    // images: {
-    //   loader: 'custom',
-    //   loaderFile: './my/image/loader.js',
-    // },
     productionBrowserSourceMaps: true,
     webpack(config) {
         const fileLoaderRule = config.module.rules.find((rule) => rule.test?.test?.(".svg"));
